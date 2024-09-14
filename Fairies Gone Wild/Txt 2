@@ -1,6 +1,6 @@
 @font-face {
- font-family: YOUR FONT NAME;
+ font-family: FairiesGoneWild;
  font-style: normal;
  font-weight: 400;
- src: url(YOUR RAW.GITHACK URL) ;
+ src: url(https://rawcdn.githack.com/SupernalSpirits/Font-Files/main/Fairies%20Gone%20Wild/FairiesGoneWildPlus-K5ae.otf) ;
 }
